@@ -149,4 +149,5 @@
  :macros {}
 
  :markdown/version 2
- :date-formatter "yyyy-MM-dd EEEE"}
+ :date-formatter "yyyy-MM-dd EEEE"
+ :feature/enable-encryption? true}
