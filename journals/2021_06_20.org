@@ -1,6 +1,7 @@
-* LATER hi
+* NOW hi
 :PROPERTIES:
 :done: 1624219606417
 :later: 1624219607096
+:now: 1624219611164
 :END:
 *
